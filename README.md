@@ -1,6 +1,6 @@
 ## Oi, Sou o Luis Felipe!
 
-Dev Front-end estudando ReactJS e TypeScript.
+Dev Full Stack estudando ReactJS, TypeScript Node e ORMs.
 Trabalho atualmente com Django na Universidade Federal do Tocantins.
 
 <div align="center">
