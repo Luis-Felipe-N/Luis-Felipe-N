@@ -35,7 +35,7 @@ I'm a passionate software developer focused on JavaScript and Python frameworks.
 
 <div>
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html">
-  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" alt="node">
+  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node">
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss">
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css">
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
